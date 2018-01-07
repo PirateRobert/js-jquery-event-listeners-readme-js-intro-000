@@ -5,7 +5,9 @@ function getIt(){
   })
 }
 function frameIt(){
-  $("img").on("")
+  $("img").on("load",function(){
+    
+  })
 }
 function pressIt(){
   $("input").on("keydown",function(key){
