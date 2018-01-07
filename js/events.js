@@ -5,7 +5,7 @@ function getIt(){
   })
 }
 function frameIt(){
-  $("input").on("")
+  $("img").on("")
 }
 function pressIt(){
   $("input").on("")
